@@ -52,7 +52,6 @@
     "eslint-config-next": "13.4.19",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^5.0.0",
-    "husky": "^8.0.0",
     "lint-staged": "^13.0.0",
     "prettier": "^3.0.0",
     "prettier-plugin-tailwindcss": "^0.4.1",
@@ -74,6 +73,5 @@
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
       "prettier --write"
     ]
-  },
-  "packageManager": "yarn@3.6.1"
+  }
 }
