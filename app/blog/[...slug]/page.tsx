@@ -88,7 +88,7 @@ export default async function Page({ params }: { params: { slug: string[] } }) {
     return (
       <div className="mt-24 text-center">
         <PageTitle>
-          Under Construction{' '}
+          Siden er under arbeid{' '}
           <span role="img" aria-label="roadwork sign">
             🚧
           </span>
