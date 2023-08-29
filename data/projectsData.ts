@@ -1,25 +1,21 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Etablere gruppe',
+    description: `Innlevering 1, etablere gruppe, hvem er vi?`,
+    imgSrc: '/static/images/group.jpg',
+    href: '/blog/etableregruppe',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Om oss',
+    description: `Vil du lese mer om hvem gruppe 9 er? Sjekk ut denne lenken.`,
+    imgSrc: '/static/images/omoss.jpg',
+    href: '/about',
   },
   {
     title: 'Github',
     description: `Gruppen sin github`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    imgSrc: '/static/images/github.jpeg',
+    href: 'https://github.com/JosteinEng/IS-310',
   }
 ]
 
