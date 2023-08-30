@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Gruppe 9',
   author: 'Jostein Engesæt, Michael Tangeraas, Frida Valvik, Hassan Heidari og Hans Christian Morka',
-  headerTitle: 'Praksisprosjekt',
+  headerTitle: 'Prosjektgjennomføring',
   description: 'Hjemmeside laget for å presentere gruppen i IS-310',
   language: 'en-us',
   theme: 'system', // system, dark or light
