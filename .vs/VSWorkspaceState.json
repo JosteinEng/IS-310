@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\blog\\page",
+    "\\app\\blog\\page\\[page]",
+    "\\app\\blog\\[...slug]",
+    "\\data",
+    "\\data\\authors",
+    "\\data\\blog",
+    "\\public\\static",
+    "\\public\\static\\images"
   ],
-  "SelectedNode": "\\C:\\Users\\Hans Christian Morka\\Source\\Repos\\IS-310",
+  "SelectedNode": "\\data\\siteMetadata.js",
   "PreviewInSolutionExplorer": false
 }
