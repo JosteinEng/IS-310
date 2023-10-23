@@ -23,7 +23,6 @@ export default function AuthorLayout({ children, content }: Props) {
             Velkommen til oss i gruppe 9!
           </h5>
           <p>Studentgruppen som representerer gruppe 9 har over flere semestere jobbet delaktig sammen for å utarbeide gode resultater og lærdom gjennom bachelorprogrammet, IT og Informasjonssystemer ved UiA. Gjennom studiene har studentene bygget god faglig kompetanse på både individuelt plan, og i felleskap. Gruppen har sammen utarbeidet en arbeidsdynamikk som effektivt tar i bruk enkeltpersoners evner, erfaringer, styrker og svakheter, for å skape et arbeidsmiljø som er inkluderende og effektivt ved prosjektgjennomføring og arbeid. Denne sammensetningen skaper rom for åpenhet, troverdighet og utfyllelse ved hverandres evner, tanker og ønsker ved et gitt arbeid.</p>
-          <p>Om du vil lese mer, sjekk ut: [Om oss](/about)</p>       
           </div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <div className="flex flex-col items-center space-x-2 pt-8">
