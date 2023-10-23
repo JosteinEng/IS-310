@@ -1,5 +1,11 @@
 const projectsData = [
   {
+    title: 'Våre tidligere prosjekter',
+    description: `Les litt om noen av våre skoleprosjekter her!`,
+    imgSrc: '/static/images/prosjekt/vaare_prosjekter.png',
+    href: '/blog/tidligereprosjekter',
+  },
+  {
     title: 'Prosjektgjennomføring',
     description: `Hvilke tanker har vi rundt prosjektgjennomføring? Les mer her!`,
     imgSrc: '/static/images/group.jpg',
